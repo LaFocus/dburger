@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'SR';
+    src: url(../fonts/Saira/SairaStencilOne-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'OSB';
+    src: url(../fonts/OpenSans/OpenSans-Bold.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'OSR';
+    src: url(../fonts/OpenSans/OpenSans-Regular.ttf) format('truetype');
+}
